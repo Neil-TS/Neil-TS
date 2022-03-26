@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Neil-TS. I have recently graduated with a masters in biomedical engineering from the university at buffalo. I am currently looking for job oppurtunities,
+- where I will be able utilize my machine learning, deep learning and viualization experiences. 
